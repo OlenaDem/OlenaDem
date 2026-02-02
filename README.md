@@ -31,7 +31,7 @@ Welcome to my GitHub
 
 ## 📫 Connect With Me
 - 💼 www.linkedin.com/in/olena-demchenko-de
-- - 🌐 [Portfolio](https://aljona-demchenko.onrender.com/)
+- 🌐 [Portfolio](https://aljona-demchenko.onrender.com/)
 
 
 
