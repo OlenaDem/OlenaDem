@@ -1,8 +1,8 @@
-# Hello,  I'm Aljona 👋 
+# Hello,  I'm Olena 👋 
 Welcome to my GitHub
 
 ### 👌 Frontend-focused developer building modern UIs,
-### with a growing interest and hands-on experience in backend technologies.
+### with a growing interest and hands-on experience in Backend technologies.
 
 
 ## 🛠️ Tech Stack
@@ -31,7 +31,7 @@ Welcome to my GitHub
 
 ## 📫 Connect With Me
 - 💼 www.linkedin.com/in/olena-demchenko-de
-- 🌐 [Portfolio](https://aljona-demchenko.onrender.com/)
+- 🌐 [Portfolio](https://demchenko-portfolio.vercel.app/)
 
 
 
